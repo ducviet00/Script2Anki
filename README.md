@@ -1,6 +1,6 @@
 # Script2Anki
 Convert script, substitle to anki for learning new vocabs
-
+Currently only support english-vietnamese
 ## Card Fields
 
 Reverse Card Template
