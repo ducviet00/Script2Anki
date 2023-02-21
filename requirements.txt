@@ -1,2 +1,4 @@
 genanki
 pysubs2
+nltk
+wordfreq
