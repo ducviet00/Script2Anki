@@ -2,3 +2,4 @@ genanki
 pysubs2
 nltk
 wordfreq
+pydantic
