@@ -4,13 +4,13 @@ Inherit: https://github.com/pranavdeshai/anki-prettify
 -->
 <div class="prettify-flashcard">
     <div class="prettify-deck">{{Deck}}</div>
-    <div class="prettify-field prettify-field--title">{{target-word}}</div>
+    <div class="prettify-field prettify-field--title">{{target_word}}</div>
     <div class="prettify-field prettify-field--transcription">{{transcription}}</div>
     <div class="prettify-field prettify-field--pronouncing">{{pronouncing}}</div>
     <div class="prettify-field prettify-field--subtitle">Vietnamese</div>
     <div class="prettify-field prettify-field--vietnamese">{{vietnamese}}</div>
     {{#Tags}}
-    <div class="prettify-tags">{{tags}}</div>
+    <div class="prettify-tags">{{clickable:Tags}}</div>
     {{/Tags}}
 </div>
 
